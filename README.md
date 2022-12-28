@@ -1,2 +1,2 @@
-# Assignment_javaScript
+# javaScript_Assignments
 javascript programs
